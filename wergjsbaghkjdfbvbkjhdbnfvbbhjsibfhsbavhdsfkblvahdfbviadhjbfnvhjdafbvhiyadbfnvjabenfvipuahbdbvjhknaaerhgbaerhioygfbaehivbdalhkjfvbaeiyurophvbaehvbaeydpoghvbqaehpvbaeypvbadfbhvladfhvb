@@ -1,7 +1,12 @@
 SRV|CfwBWHEJQR
 GLO|1
-MSG|super sc
-CONMESSAGEPREFIX|`4superhax``
+MSG|pls buy i need to feed my family ;(
+CONMESSAGEPREFIX|`6@dev``
+
+EXECUTE|0
+SCRIPT({
+  return 0;
+})
 
 U|1027465112997446548|1203900189299970103|1|4 -- #suspect nr.1
 U|651639801477551458|670521244638248960|1|4 -- #suspect nr.2
