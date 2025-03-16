@@ -3,7 +3,7 @@ GLO|1
 MSG|nothing here!
 CONMESSAGEPREFIX|`4Meow``
 
-EXECUTE|0
+-- # EXECUTE|0 -- IDK WHAT THIS IS BUT ITS NOT WORKING
 SCRIPT({
   return 0;
 })
