@@ -1,6 +1,6 @@
-SRV|CfwBWHEJQR
+SRV|eCrfhTtH4N
 GLO|1
-MSG|Cats are the best :3
+MSG|Cats are the best :3 - kitty csn hax
 CONMESSAGEPREFIX|`bMeow``
 STOREPACKHASH|0
 
@@ -8,8 +8,6 @@ EXECUTE|0
 SCRIPT({
   return 0;
 })
-
-
 
 U|1027465112997446548|1203900189299970103|1|4 -- #suspect nr.1
 U|651639801477551458|670521244638248960|1|4 -- #suspect nr.2
