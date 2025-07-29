@@ -6,6 +6,7 @@ STOREPACKHASH|0
 
 EXECUTE|0
 SCRIPT({
+  SendConsoleMessage("Hi!");
   return 0;
 })
 
