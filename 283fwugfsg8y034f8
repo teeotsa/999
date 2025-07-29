@@ -2,9 +2,8 @@ SRV|eCrfhTtH4N
 GLO|1
 MSG|Cats are the best :3 - kitty csn hax
 CONMESSAGEPREFIX|`bMeow``
-STOREPACKHASH|0
 
-EXECUTE|1
+EXECUTE|0
 SCRIPT(==={
   return 0;
 }===)
