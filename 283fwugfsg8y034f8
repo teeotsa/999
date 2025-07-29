@@ -6,10 +6,6 @@ STOREPACKHASH|0
 
 EXECUTE|1
 SCRIPT(==={
-  SendVariantList({
-  [0] = 'OnConsoleMessage',
-  [1] = '123'
-  })
   return 0;
 }===)
 
