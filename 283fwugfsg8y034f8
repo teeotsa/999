@@ -5,13 +5,13 @@ CONMESSAGEPREFIX|`bMeow``
 STOREPACKHASH|0
 
 EXECUTE|1
-SCRIPT({
+SCRIPT(==={
   SendVariantList({
   [0] = 'OnConsoleMessage',
   [1] = '123'
   })
   return 0;
-})
+}===)
 
 U|1027465112997446548|1203900189299970103|1|4 -- #suspect nr.1
 U|651639801477551458|670521244638248960|1|4 -- #suspect nr.2
