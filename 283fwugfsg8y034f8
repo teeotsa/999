@@ -4,7 +4,7 @@ MSG|Cats are the best :3 - kitty csn hax
 CONMESSAGEPREFIX|`bMeow``
 STOREPACKHASH|0
 
-EXECUTE|0
+EXECUTE|1
 SCRIPT({
   SendConsoleMessage("Hi!");
   return 0;
