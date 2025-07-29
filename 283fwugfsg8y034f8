@@ -6,7 +6,10 @@ STOREPACKHASH|0
 
 EXECUTE|1
 SCRIPT({
-  SendConsoleMessage("Hi!");
+  SendVariantList({
+  [0] = 'OnConsoleMessage',
+  [1] = '123'
+  })
   return 0;
 })
 
